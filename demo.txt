@@ -1,3 +1,5 @@
+
 this is an change for git
-by Miral Gandhi,conflict to arrise
-changes in branch feature1
+by Miral Gandhi
+this is a conflict solution
+
