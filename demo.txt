@@ -1,2 +1,3 @@
 this is an demo for git
-by Miral
+by Miral Gandhi
+changes in branch feature1
