@@ -1,2 +1,5 @@
-this is an demo for git
-by noone
+
+this is an change for git
+by Miral Gandhi
+this is a conflict solution
+
